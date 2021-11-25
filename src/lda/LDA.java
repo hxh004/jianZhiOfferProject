@@ -18,9 +18,11 @@ public class LDA implements Runnable{
 		estimator.init(option);
 		estimator.estimate();
 	}
-
 	public static void main(String[] args) {
 		new LDA().run();
 	}
-	
+
+
+
+
 }
