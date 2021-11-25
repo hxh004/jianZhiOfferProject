@@ -8,6 +8,8 @@ public class LDA implements Runnable{
 		LDAOption option = new LDAOption();
 		
 		option.dir = "D:/d12/model";
+
+
 		option.dfile = "doc.dat";
 		option.est = true;  /////
 		///option.estc = true;
