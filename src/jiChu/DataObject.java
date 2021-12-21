@@ -11,4 +11,7 @@ public class DataObject implements Serializable {
     public void setI(int i){
         DataObject.i = i;
     }
+
+
+    //test-second-machine
 }
